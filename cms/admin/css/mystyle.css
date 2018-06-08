@@ -1,0 +1,16 @@
+#cat_enter {
+  margin-top: 10px;
+  max-width: 40%;;
+}
+#cat_container {
+  min-height: 400px;
+  padding: 10px;
+  padding-left: 30px;
+}
+#cat_list {
+  border:1px white solid;
+  min-height: 400px;
+}
+#cat_table {
+  border: 1px rgb(73, 73, 73) solid;
+}
